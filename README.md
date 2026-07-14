@@ -28,10 +28,10 @@
       <td valign="top" width="50%">
         <h4>💡 当前沉迷</h4>
         <ul>
-          <li>🔭 正在研究：苏州天池花山线徒步路线</li>
-          <li>🎧 单曲循环：阿桑 - 一直很安静</li>
-          <li>📺 近期最爱：功夫女足</li>
-          <li>🗺️ 下一个目的地：楼下新开的咖啡馆</li>
+          <li><span style="white-space:nowrap">🥾&nbsp;正在研究：苏州天池花山线徒步路线</span></li>
+          <li><span style="white-space:nowrap">🎧&nbsp;单曲循环：阿桑 - 一直很安静</span></li>
+          <li><span style="white-space:nowrap">📺&nbsp;近期最爱：功夫女足</span></li>
+          <li><span style="white-space:nowrap">🗺️&nbsp;下一个目的地：楼下新开的咖啡馆</span></li>
         </ul>
       </td>
     </tr>
@@ -49,7 +49,7 @@
   
   | 🎵 音乐 | 🛠️ 正在折腾 | 🎬 影像 | 🍜 味道 |
   | :---: | :---: | :---: | :---: |
-  | Beyond - 海阔天空 | 修好了第7个坏掉的台灯 | 仙剑奇侠传 | 和府捞面 |
+  | Beyond - 海阔天空 | 台式机怎么又蓝屏了 | 仙剑奇侠传 | 和府捞面 |
   | 周杰伦 - 七里香 | 尝试用空气炸锅做溏心蛋 | 功夫女足 | 深夜烧烤 |
   | 宋冬野 - 安和桥 | 给阳台绿植起了名字叫"阿强" | 千与千寻 | 溏心蛋（研究中） |
   
